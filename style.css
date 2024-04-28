@@ -1,0 +1,31 @@
+* {
+    color: black;
+    text-align: left;
+    }
+.container{
+    flex: auto;
+    border-bottom: 0cap;
+    font-weight: bold;
+    color: blue
+    }
+header{
+    padding: 10px;
+    background-color: #333;
+    color: gray;
+}
+h1 h2{
+    margin: 0;
+}
+nav ul{
+    display: flex;
+    padding: 0;
+    list-style: none;
+}
+nav li{
+    margin-right: 20px;
+}
+nav a{
+    color: black;
+    text-decoration: rgb(151, 144, 144);
+    font-weight: ;
+}
